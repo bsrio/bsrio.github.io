@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bsrio.github.io/vyN/sitemap.vyN.gz
